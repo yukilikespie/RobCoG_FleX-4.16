@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{14D0839A-47C7-64CA-A7E8-B081504009F7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RobCoG",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"CoreUObject"
+			]
+		}
+	]
+}
